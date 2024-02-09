@@ -1,11 +1,15 @@
 # Windw
 
-**Windw** is a love2d gui library that allows you to create a multitude of various things using love2d, this library REQUIRES flux rxi
+**Windw** is a love2d gui library that allows you to create a multitude of various things using love2d
 
 
 ## Instillation
 
-To install **windw** you need to download the code then take the windw file and put it in your love2d project
+To install **windw** you need to follow these steps:
+
+1. Download the code
+2. Unzip the windw folder
+3. Go to the windw folder and put the windw file to your love2d projec
 
 ## Creating Windows
 
