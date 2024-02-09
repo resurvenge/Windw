@@ -84,9 +84,7 @@ function love.draw()
 end
 
 ```
-the x value is the position but being added by a certain number
-the y value is the position but being added by a certain number
-the offset value is amount that the text is away from the text's original position
+the x value is the position but being added by a certain number, the y value is the position but being added by a certain number, and the offset value is amount that the text is away from the text's original position
 
 
 
