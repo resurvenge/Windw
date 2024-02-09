@@ -43,7 +43,7 @@ function love.draw()
 end
 
 ```
-## Creating window topbars and window titles
+## Creating window topbars
 
 * To create a topbar you will need to do the ``window.topbar`` function in your love2d draw function
 
@@ -63,4 +63,30 @@ function love.draw()
 end
 
 ```
+## Creating Titles
+
+* To create a topbar you will need to do the ``window.title`` function in your love2d draw function
+
+```lua
+
+local windowvalues = {
+       x = 100,
+       y = 100,
+       w = 200,
+       h = 250,
+       color = {0.3, 0.3, 0.3}
+}
+
+function love.draw()
+      window = windw.new(windowvalues)
+      window.Topbar({ color = {0.2, 0.2, 0.2} })
+      window.title({ x = 0, y = 0, text = "Menu" , offset = 50, usefont = love.graphics.setFont(love.graphics.newFont(10))})
+end
+
+```
+the x value is the position but being added by a certain number
+the y value is the position but being added by a certain number
+the offset value is amount that the text is away from the text's original position
+
+
 
