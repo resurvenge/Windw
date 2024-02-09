@@ -59,5 +59,4 @@ function love.draw()
 end
 
 ```
-```
 
