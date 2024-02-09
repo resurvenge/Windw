@@ -35,19 +35,10 @@ local button_i
 local window_i
 local title_i
 
-local function usetweenlibrary(obj, time, tabletochange, tableofnewvalues) -- IN THE RETURN PLEASE STATEMENT PLEASE PUT IN YOUR TWEEN LIBRARY IF YOU HAVE ONE IF NOT PLEASE DOWNLOAD ONE AS SOME FEATURES WILL NOT WORK
-        flux = tweenlibrary
-end
-
 
 function Color.new(tcolor)
       return love.graphics.setColor(tcolor)
 end
-
-
-
-
-
 
 function windw.new(window)
               if window and window.x and window.y and window.w and window.h then
