@@ -22,7 +22,7 @@ local windowvalues = {
 
 ```
 
-* To create a window you will need to put the function ```lua windw.new``` in your love2d draw function
+* To create a window you will need to put the function ```windw.new``` in your love2d draw function
 
 ```lua
 
@@ -41,7 +41,7 @@ end
 ```
 ## Creating window topbars and window titles
 
-* To create a topbar you will need to do the ``lua window.topbar`` function in your love2d draw function
+* To create a topbar you will need to do the ``window.topbar`` function in your love2d draw function
 
 ```lua
 
