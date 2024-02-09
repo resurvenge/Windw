@@ -65,7 +65,7 @@ end
 ```
 ## Creating Titles
 
-* To create a topbar you will need to do the ``window.title`` function in your love2d draw function
+* To create a title you will need to do the ``window.title`` function in your love2d draw function
 
 ```lua
 
