@@ -6,15 +6,8 @@ else
        flux = {}
 end
 --[[
-      WINDW by kep,
+      WINDW by Resurvenge/Kep,
       LOVE2D GUI
-
-
-
-
-
-
-      if you're like me and want to do things yourself you can feel free to break this library down and see how it works and try to make your own out of it!
 ]]
 
 local function rect(x, y, width, height, radius)
