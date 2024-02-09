@@ -7,8 +7,8 @@
 
 To install **windw** you need to follow these steps:
 
-1. Download the code
-2. Unzip the windw folder
+1. Download the zip file
+2. Unzip the file
 3. Go to the windw folder and put the windw file to your love2d projec
 
 ## Creating Windows
