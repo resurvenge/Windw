@@ -35,7 +35,7 @@ local windowvalues = {
 }
 
 function love.draw() 
-       local window = windw.new(windowvalues)
+       window = windw.new(windowvalues)
 end
 
 ```
