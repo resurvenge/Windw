@@ -3,6 +3,9 @@ STATUS: DISCONTINUED (FOR NOW)
 
 BUGS TO FIX: BUTTONS NOT WORKING IF YOU CAN FIX PLEASE SEND A PULL REQUEST, thank you.
 
+REQS: IF YOU WANT TO MAKE WINDOWS DRAG, PLEASE DOWNLOAD FLUX 
+
+FLUX LINK: https://github.com/rxi/flux
 -----------------------------------------
 **Windw** is a love2d gui library that allows you to create a multitude of various things using love2d
 
