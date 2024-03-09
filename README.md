@@ -8,11 +8,12 @@ REQS: IF YOU WANT TO MAKE WINDOWS DRAG, PLEASE DOWNLOAD FLUX
 FLUX LINK: https://github.com/rxi/flux
 
 -------------------------
-DEVLOGS
+# DEVLOGS
 
-Will be working on a fix for the buttons if you have a fix please dm me on discord (discord: "kepwastaken" or if that doesnt work try "2.ik.2").
+* will be working on a fix for the buttons if you have a fix please dm me on discord (discord: "kepwastaken" or if that doesnt work try "2.ik.2").
 
-Will add more things to README for further information and usage.
+* will add more things to README for further information and usage.
+
 -----------------------------------------
 **Windw** is a love2d gui library that allows you to create a multitude of various things using love2d
 
