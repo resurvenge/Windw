@@ -1,4 +1,4 @@
-# What is Windw?
+# What is Windw? [DEPRECATED]
 * Windw is a love2d Ui/Ux library to make making Ui's easier.
 * Windw Status: Overseeing Rewrite, old lib was confusing and hard to code with.
 [WINDW IS NOW DEPRECATED DUE TO MAJOR FILE LOSS, IT WILL NOT GO OVER ANY REWRITES]
